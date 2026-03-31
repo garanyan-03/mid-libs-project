@@ -32,4 +32,6 @@ Type a measure of time: weeks
 
 Type a mode of transportation: skateboard
 
+Requirements
+No extra libraries needed! The program only uses the random module which comes with Python.
 
