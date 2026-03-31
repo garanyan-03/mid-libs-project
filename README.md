@@ -1,3 +1,5 @@
+#README
+
 A Python game where you choose a story and fill in the blanks with your own words to create a story.
 
 python main.py
