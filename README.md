@@ -27,6 +27,9 @@ Pick a story template:
 Enter 1, 2 or 3: 1
 
 Type a number: 5
+
 Type a measure of time: weeks
+
 Type a mode of transportation: skateboard
+
 
